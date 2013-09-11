@@ -1,1 +1,3 @@
-A simple tool for checking what a SAML2 IdP returns about you.
+A simple tool for checking what a SAML2 IdP understands
+requests for Authentication Context Class References and act
+accordingly.
